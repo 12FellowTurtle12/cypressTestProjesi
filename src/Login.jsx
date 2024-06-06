@@ -21,7 +21,7 @@ const errorMessages = {
   password: 'Password must be at least 4 characters long',
 };
 
-export default function Login() {
+const Login = () => {
   const [form, setForm] = useState(initialForm);
   const [errors, setErrors] = useState({});
   const [isValid, setIsValid] = useState(false);
@@ -129,4 +129,6 @@ export default function Login() {
       </FormGroup>
     </Form>
   );
-}
+};
+
+export default Login;
