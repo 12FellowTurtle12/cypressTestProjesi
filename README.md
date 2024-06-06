@@ -1,10 +1,10 @@
-#LOGIN VE SUCCESS DOSYALARI SRC İÇİNDEDİR
+# LOGIN VE SUCCESS DOSYALARI SRC İÇİNDEDİR
 
-#PROGRAMI ÇALIŞTIRMAK İÇİN
-#1-CMD veya Shell'i klasörde açın
-#2-komut: npm install
-#3-komut: npm run dev
-#4-çıkan url'yi (localhost) browser'ınızda çalıştırın
+# PROGRAMI ÇALIŞTIRMAK İÇİN
+# 1-CMD veya Shell'i klasörde açın
+# 2-komut: npm install
+# 3-komut: npm run dev
+# 4-çıkan url'yi (localhost) browser'ınızda çalıştırın
 
 # React + Vite
 
